@@ -1,0 +1,1 @@
+print("basalt is a mafic rock.")
